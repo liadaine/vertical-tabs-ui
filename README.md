@@ -16,7 +16,7 @@ Praticar a criação de interfaces interativas utilizando apenas HTML e CSS, exp
 ---
 
 ## 🌐 Visualizar projeto
-link
+https://liadaine.github.io/vertical-tabs-ui/
 
 ---
 
